@@ -11,7 +11,7 @@ Personally, I’d describe myself as someone who knows a little about a lot when
 
 <div align = "left" width = 50%>
 <h2> My Career in Tech</h2>
-<ul>-*
+<ul>
 <li>I currently work as a developer at JPMorganChase on delivering features for Chase's Customer Service application</li>
 <li>I did my Masters in CS from the University of Michigan, broadening my knowledge of Parallel Programming, Deep Learning, Cryptography, et al.</li>
 <li>I also worked at Microsoft as a Cloud Consultant and Site Reliability Engineer helping clients design their move into Azure</li>
